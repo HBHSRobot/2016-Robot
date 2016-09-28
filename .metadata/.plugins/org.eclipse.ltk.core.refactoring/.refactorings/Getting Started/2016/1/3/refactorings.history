@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;joystickLeft&apos; in &apos;org.usfirst.frc.team5966.robot.Robot&apos; to &apos;stick2&apos;&#x0D;&#x0A;- Original project: &apos;Getting Started&apos;&#x0D;&#x0A;- Original element: &apos;org.usfirst.frc.team5966.robot.Robot.joystickLeft&apos;&#x0D;&#x0A;- Renamed element: &apos;org.usfirst.frc.team5966.robot.Robot.stick2&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;joystickLeft&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;org.usfirst.frc.team5966.robot{Robot.java[Robot^joystickLeft" name="stick2" references="true" setter="false" stamp="1452967703733" textual="false" version="1.0"/>
+</session>
